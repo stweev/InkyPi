@@ -1,6 +1,6 @@
 # InkyPi — Degraded Mode Context
 
-This file is used when ~/workspace/knowledge/ is unavailable.
+Legacy fallback context. Current agent entrypoint: `AGENTS.md`, which inherits the workspace contract from `~/workspace/AGENTS.md`.
 
 ## Owner
 
