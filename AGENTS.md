@@ -1,7 +1,7 @@
 # Project: InkyPi
 
 ## Bootstrap
-Read `~/workspace/AGENTS.md` for the team contract (Larry orchestration, identity, governance, session protocols).
+@~/workspace/AGENTS.md
 
 ## This Project
 
